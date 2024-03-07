@@ -1,0 +1,12 @@
+/home/suleiman-gacheru/first_contract_aelf/src/bin/Debug/net6.0/MyCharacter.deps.json
+/home/suleiman-gacheru/first_contract_aelf/src/bin/Debug/net6.0/MyCharacter.dll
+/home/suleiman-gacheru/first_contract_aelf/src/bin/Debug/net6.0/ref/MyCharacter.dll
+/home/suleiman-gacheru/first_contract_aelf/src/bin/Debug/net6.0/MyCharacter.pdb
+/home/suleiman-gacheru/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.csproj.AssemblyReference.cache
+/home/suleiman-gacheru/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.GeneratedMSBuildEditorConfig.editorconfig
+/home/suleiman-gacheru/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.AssemblyInfoInputs.cache
+/home/suleiman-gacheru/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.AssemblyInfo.cs
+/home/suleiman-gacheru/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.csproj.CoreCompileInputs.cache
+/home/suleiman-gacheru/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.dll
+/home/suleiman-gacheru/first_contract_aelf/src/obj/Debug/net6.0/ref/MyCharacter.dll
+/home/suleiman-gacheru/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.pdb
